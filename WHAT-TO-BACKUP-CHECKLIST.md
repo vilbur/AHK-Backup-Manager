@@ -1,6 +1,7 @@
 
 
 
+
 # WINDOWS  
 
 - Power Toys  
@@ -23,7 +24,11 @@
 
 # CHROME Extensions  
 
-Notice: REFRESH TAB OF EXTESION OF LINK  
+## **IMPORTANT**: PRESS ENTER IN URL TO REFRESH TAB OF EXTESION  
+
+[**SimpleExtManager**]( chrome-extension://bbgbjeiedibajiehaenkindljahjkodi/options.html )  
+
+[**Mouse Gestures**]( chrome-extension://jlgkpaicikihijadgifklkbpdajbkhjo/options.html )  
 
 [**Regex Download Organizer**]( chrome-extension://oamembonjndgangicfphlckkdmagpjlg/options.html# )  
 
@@ -31,12 +36,8 @@ Notice: REFRESH TAB OF EXTESION OF LINK
 
 [**Context Menu Search**]( chrome-extension://ocpcmghnefmdhljkoiapafejjohldoga/options.html )  
 
-[**Channel Blocker**]( XXXXXXXXXXXXXXXXXXXXX )  
-[**Mouse Gestures**]( XXXXXXXXXXXXXXXXXXXXX )  
-[**Regex Download Organizer**]( XXXXXXXXXXXXXXXXXXXXX )  
-[**SimpleExtManager**]( XXXXXXXXXXXXXXXXXXXXX )  
-[**Smooth Gestures**]( XXXXXXXXXXXXXXXXXXXXX )  
-[**Speed Dial 2**]( XXXXXXXXXXXXXXXXXXXXX )  
+[**Speed Dial 2**]( chrome-extension://jpfpebmajhhopeonhlcgidhclcccjcik/override.html#/?preferences=true )  
+
 [**Tab Snooze**]( XXXXXXXXXXXXXXXXXXXXX )  
 
   ---------------------------  
