@@ -39,7 +39,11 @@ Notice: REFRESH TAB OF EXTESION OF LINK
 [**Speed Dial 2**]( XXXXXXXXXXXXXXXXXXXXX )  
 [**Tab Snooze**]( XXXXXXXXXXXXXXXXXXXXX )  
 
+  ---------------------------  
+BackupManager.ahk  
+---------------------------  
 
-<a href="#" onclick="location.href='chrome-extension://ocpcmghnefmdhljkoiapafejjohldoga/options.html'">  
-    Open Extension  
-</a>  
+Error:  Invalid option.  
+Specifically: IconB:\AHK-Backup-Manager\BackupManager.png  
+--->	046: Gui,+Icon%A_ScriptDir%\BackupManager.png  
+  
